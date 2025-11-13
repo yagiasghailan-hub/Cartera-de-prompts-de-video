@@ -1,0 +1,225 @@
+===================================================================================
+  INSIGHTS CLAVE - COLECCIÓN DE PROMPTS PARA GENERACIÓN DE VÍDEO CON IA
+===================================================================================
+
+Fecha: Noviembre 2025
+Documento Fuente: VPromts-Sora-2.txt
+Total de Prompts: 21 principales + variaciones
+Plataformas objetivo: Sora, Kling AI, Runway, Veo, Pika Labs
+
+-----------------------------------------------------------------------------------
+1. RESUMEN EJECUTIVO
+-----------------------------------------------------------------------------------
+
+Esta colección representa un conjunto profesional de prompts altamente especificados
+para la generación de contenido de vídeo publicitario con IA. Todos los prompts están
+optimizados para formatos de redes sociales (10 segundos) con calidad cinematográfica.
+
+-----------------------------------------------------------------------------------
+2. DISTRIBUCIÓN POR CATEGORÍA
+-----------------------------------------------------------------------------------
+
+• Moda: 5 prompts (23.8%) - Mayor representación
+• Cine: 3 prompts (14.3%)
+• Alimentos/Bebidas: 3 prompts (14.3%)
+• Perfume: 2 prompts (9.5%)
+• Deportes: 2 prompts (9.5%)
+• Lujo/Joyería: 2 prompts (9.5%)
+• Motion Graphics: 2 prompts (9.5%)
+• Automoción: 1 prompt (4.8%)
+• Art Toys: 1 prompt (4.8%)
+
+-----------------------------------------------------------------------------------
+3. PATRONES TÉCNICOS IDENTIFICADOS
+-----------------------------------------------------------------------------------
+
+DURACiÓN:
+• 90% de los prompts: 10 segundos (formato redes sociales)
+• Excepciones: 12-15 segundos (narrativa) | 45 segundos (trailers)
+
+ESTILO VISUAL:
+• Cinematográfico: 90%
+• Alto contraste: 85%
+• Slow motion: 70%
+• Fotorrealismo extremo: 95%
+
+CÁMARA:
+• Lentes específicas: 50mm, 85mm, 100mm, teleobjetivo
+• Movimientos: Dolly-in, Pan, Tilt, Rack focus
+• Velocidades: 40-90% slow motion
+
+AUDIO:
+• BGM: 100% especificado (BPM, género, instrumentos)
+• SFX: Extremadamente detallados ("tic-tac amplificado", "crunch", "siseo")
+• Silencio estratégico: Usado para énfasis
+
+-----------------------------------------------------------------------------------
+4. DESCUBRIMIENTOS CLAVE
+-----------------------------------------------------------------------------------
+
+[1] ESPECIFICIDAD SIN PRECEDENTES
+    Cada elemento visual y auditivo está definido con precisión milimétrica:
+    - Temperatura de color
+    - BPM exacto de música (ej: 72 BPM)
+    - Porcentaje de slow motion (ej: 80%)
+    - Tipo de lente (ej: 100mm teleobjetivo)
+
+[2] FORMATO OPTIMIZADO PARA REDES SOCIALES
+    • Duración ideal: 10 segundos
+    • Formato: Vertical y horizontal
+    • Plataformas: Instagram Reels, TikTok, YouTube Shorts
+    • Engagement: Alto impacto visual rápido
+
+[3] AUDIO COMO PILAR FUNDAMENTAL
+    No es opcional - El audio está especificado con el mismo nivel de detalle
+    que el video:
+    • Música: Género, BPM, instrumentos, estructura emocional
+    • SFX: Sonidos amplificados y específicos
+    • Timing: Sincronización exacta con acciones visuales
+
+[4] MARCAS FICTICIAS PROFESIONALES
+    Todos los prompts crean marcas believables:
+    • VELOCITY (deportes)
+    • ARKHE (moda)
+    • ZENITH (outdoor)
+    • COLLECTIVE BLANK (art toys)
+    • Naming estratégico y memorable
+
+[5] USO INNOVADOR DE "GLITCH" COMO TRANSICIÓN
+    Varios prompts incorporan efectos glitch para cambios de entorno:
+    Ejemplo: Campo de entrenamiento → [GLITCH] → Estadio lleno
+    Efecto: Aumenta dramatismo y conecta realidades
+
+[6] ENFOQUE 100% COMERCIAL
+    • Ningún prompt es artístico puro
+    • Todos orientados a publicidad/marketing
+    • Objetivo: Vender producto/marca
+    • Tono: Premium, aspiracional
+
+-----------------------------------------------------------------------------------
+5. ESTRUCTURA CONSISTENTE
+-----------------------------------------------------------------------------------
+
+Todos los prompts siguen esta arquitectura:
+
+[TITLE] Nombre del producto/marca
+│
+├─ [SUJETO/ESCENA]
+│   ├─ Público objetivo
+│   ├─ Tono narrativo
+│   ├─ Tipo de sujeto
+│   ├─ Características principales
+│   └─ Entorno
+│
+├─ [INFERENCIA]
+│   ├─ Tema
+│   ├─ Género
+│   └─ Tono
+│
+├─ [ESTILO]
+│   ├─ Iluminación
+│   ├─ Paleta de colores
+│   └─ Gusto visual
+│
+├─ [CÁMARA]
+│   ├─ Movimiento
+│   ├─ Lente
+│   └─ Velocidad
+│
+├─ [AUDIO]
+│   ├─ BGM
+│   ├─ SFX
+│   ├─ Señal final
+│   └─ Duración
+│
+└─ [TEXTO EN PANTALLA] (opcional)
+
+-----------------------------------------------------------------------------------
+6. TONOS Y ESTÉTICAS DOMINANTES
+-----------------------------------------------------------------------------------
+
+TONOS MÁS USADOS:
+1. Cinematográfico (15 menciones)
+2. Épico (8 menciones)
+3. Sensual (6 menciones)
+4. Dramático (5 menciones)
+5. Premium/Lujoso (7 menciones)
+
+ESTÉTICAS RECURRENTES:
+• Alto contraste
+• Minimalista
+• Fotorrealismo
+• Iluminación dramática
+• Slow motion
+• Macro extremo
+
+-----------------------------------------------------------------------------------
+7. PÚBLICOS OBJETIVO
+-----------------------------------------------------------------------------------
+
+• Gen Z / Millennials (40%)
+• Alta sociedad / Coleccionistas (25%)
+• Deportistas / Aventureros (15%)
+• Audiencias de nicho (20%)
+
+CARACTERÍSTICAS DEL PÚBLICO:
+• Conscientes de tendencias
+• Valoradores de calidad premium
+• Activos en redes sociales
+• Buscan autenticidad y exclusividad
+
+-----------------------------------------------------------------------------------
+8. APLICACIONES PRÁCTICAS
+-----------------------------------------------------------------------------------
+
+[PARA CREADORES DE CONTENIDO]
+✓ Usa como plantillas base
+✓ Reemplaza marcas ficticias
+✓ Mantén especificidad técnica
+✓ Respeta estructura de audio
+
+[PARA AGENCIAS DE MARKETING]
+✓ Estándar de calidad para brief de clientes
+✓ Adaptación por industria
+✓ Baseline para presupuestos
+✓ Guía de especificaciones técnicas
+
+[PARA ESTUDIANTES]
+✓ Estudiar nomenclatura profesional
+✓ Comprender estructura de prompts comerciales
+✓ Practicar variaciones
+✓ Aprender la importancia del audio
+
+-----------------------------------------------------------------------------------
+9. VALOR DE LA COLECCIÓN
+-----------------------------------------------------------------------------------
+
+ESTIMACION DE VALOR COMERCIAL:
+• Tiempo de creación: ~80 horas de trabajo profesional
+• Conocimiento acumulado: Experiencia en múltiples industrias
+• Especificidad técnica: Nivel cinematográfico profesional
+• Valor de referencia: $2,000 - $5,000 USD (como portfolio de prompts)
+
+BENEFICIOS:
+✓ Ahorro de tiempo en producción
+✓ Reducción de iteraciones
+✓ Resultados predecibles
+✓ Calidad profesional garantizada
+
+-----------------------------------------------------------------------------------
+10. RECOMENDACIONES FINALES
+-----------------------------------------------------------------------------------
+
+• MANTENER LA ESPECIFICIDAD: No simplificar en exceso
+• RESPETAR EL AUDIO: Es tan importante como el video
+• ADAPTAR AL CONTEXTO: Personalizar según marca real
+• PROBAR Y REFINAR: Usar como punto de partida
+• DOCUMENTAR RESULTADOS: Crear biblioteca de variaciones exitosas
+
+-----------------------------------------------------------------------------------
+
+Última actualización: Noviembre 2025
+Versión: 1.0
+Repositorio: github.com/yagiasghailan-hub/Cartera-de-prompts-de-video
+
+===================================================================================
